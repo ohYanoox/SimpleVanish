@@ -1,7 +1,9 @@
-Utility
-=======
+SimpleVanish
+============
 
-Be invisible and make other players invisible easily !
+SimpleVanish is a plugin created by Yanoox for use in pocketmine software servers.
+
+Be invisible and make other players invisible easily with a simple command !
 
 How to use ?
 ============
