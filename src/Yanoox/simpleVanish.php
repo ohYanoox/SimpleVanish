@@ -17,6 +17,6 @@ class simpleVanish extends PluginBase{
     {
         $this->getServer()->getCommandMap()->register("vanish", new vanishCommands($this));
         
-        $this->getLogger()->info(TextFormat::WHITE . "[" . TextFormat::GRAY . "SimpleVanish" . TextFormat::WHITE . "] - " .TextFormat::GOLD . "simpleVanish created by Yanoox");
+        $this->getLogger()->info(TextFormat::WHITE . "- " . TextFormat::GOLD . "simpleVanish created by Yanoox");
     }
 }
